@@ -6,7 +6,7 @@
 # Author: Liu tiansi
 # Blog: http://blog.liuts.com
 # Mail: liutiansi@gmail.com
-# Version: 1.1
+# Version: 1.2
 # Script run  format:
 #    VPNinstall.sh "Service Networking Name"
 #    Examples: VPNinstall.sh eth0
